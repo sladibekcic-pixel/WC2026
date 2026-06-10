@@ -1,0 +1,14 @@
+{
+  "name": "WM 2026 Turnierbaum",
+  "short_name": "WM 2026",
+  "description": "WM 2026 Turnierbaum mit KI-Prognosen, Live-Statistiken und Simulation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "https://flagcdn.com/w80/us.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "https://flagcdn.com/w160/us.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
